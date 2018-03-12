@@ -8,3 +8,4 @@ lassie = Dog.new
 Class Person
 end
 
+adele_goldberg = Person.new
